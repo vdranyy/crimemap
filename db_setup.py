@@ -20,7 +20,7 @@ try:
         category VARCHAR(50),
         description VARCHAR(1000),
         updated_at TIMESTAMP,
-        PRIMARY_KEY (id)
+        PRIMARY KEY (id)
         )"""
         cursor.execute(sql)
     connection.commit()
