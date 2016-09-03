@@ -4,3 +4,4 @@
 *.swp
 .crimemap/
 dbconfig.py
+__pycache__/
