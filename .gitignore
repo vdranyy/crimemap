@@ -5,3 +5,4 @@
 .crimemap/
 dbconfig.py
 __pycache__/
+api_key.txt
